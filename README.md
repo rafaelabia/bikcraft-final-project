@@ -1,6 +1,6 @@
 # ![favicon](https://github.com/rafaelabia/bikcraft-final-project/assets/116205061/37789dfd-6f88-4978-a2b6-1a3d6dcf10a7) Bikcraft - Projeto Front-end 
 
-Projeto frontend página de venda de bicicletas online.
+Projeto front-end página de venda de bicicletas online.
 
 ## Tecnologias
 Tecnologias usadas no projeto.
